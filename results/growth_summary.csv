@@ -1,0 +1,4 @@
+group,mean,median,std,country_years,median_country_volatility,median_cumulative_growth_1995_2018
+UEMOA,1.325,1.487,3.272,192,2.706,35.377
+CEMAC,3.152,2.685,9.930,144,6.250,77.143
+Non-CFA,2.509,2.696,7.740,192,4.322,91.155

@@ -1,0 +1,5 @@
+Specification,Variable,Coefficient (pp),Clustered SE,p-value,N,R2
+CFA dummy,cfa,-11.0207,2.9244,0.0002,598,0.3651
+By union,uemoa,-11.1085,2.9644,0.0002,598,0.3651
+By union,cemac,-10.9023,2.9208,0.0002,598,0.3651
+Median regression,cfa,-7.4314,0.2782,0.0000,598,

@@ -1,0 +1,4 @@
+group,mean,median,std,share_below_3,share_above_10,country_years,median_country_volatility
+UEMOA,3.310,2.131,6.145,0.649,0.052,231,3.481
+CEMAC,3.405,2.949,3.781,0.509,0.047,171,3.251
+Non-CFA,23.846,9.775,71.112,0.077,0.474,196,9.365
